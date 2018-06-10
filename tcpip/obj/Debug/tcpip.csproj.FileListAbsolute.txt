@@ -1,0 +1,10 @@
+D:\学习\C#\tcpip\tcpip\bin\Debug\tcpip.exe.config
+D:\学习\C#\tcpip\tcpip\bin\Debug\tcpip.exe
+D:\学习\C#\tcpip\tcpip\bin\Debug\tcpip.pdb
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.csprojAssemblyReference.cache
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.Properties.Resources.resources
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.csproj.GenerateResource.cache
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.csproj.CoreCompileInputs.cache
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.exe
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.pdb
+D:\学习\C#\tcpip\tcpip\obj\Debug\tcpip.FormMean.resources
