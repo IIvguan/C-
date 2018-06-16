@@ -1,27 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace tcpip
 {
     public partial class FormMean : Form
     {
+
         Socket client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+
+
         public FormMean()
         {
             InitializeComponent();
         }
         private void Setcomment_Click(object sender, EventArgs e)
         {
+
             IPAddress ip = IPAddress.Parse(textip.Text.Replace(" ",""));//连接到的目标IP
             IPEndPoint point = new IPEndPoint(ip, int.Parse(textport.Text)); //连接到目标IP的哪个应用(端口号！)
             try

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPsever", "TCPsever\TCPsever.csproj", "{641E040F-64D0-4E16-B74F-62CFAC33BDFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpip", "..\..\tcpip\tcpip\tcpip.csproj", "{BE6E1D12-6364-4D1F-A931-26859C56C999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{641E040F-64D0-4E16-B74F-62CFAC33BDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641E040F-64D0-4E16-B74F-62CFAC33BDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641E040F-64D0-4E16-B74F-62CFAC33BDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641E040F-64D0-4E16-B74F-62CFAC33BDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6E1D12-6364-4D1F-A931-26859C56C999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6E1D12-6364-4D1F-A931-26859C56C999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6E1D12-6364-4D1F-A931-26859C56C999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6E1D12-6364-4D1F-A931-26859C56C999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2524AD0-152F-4AF6-9D6F-C0067B26E106}
+	EndGlobalSection
+EndGlobal
