@@ -19,7 +19,7 @@ namespace 适配器模式
             Console.ReadKey();
         }
     }
-    public abstract     class  BaseDraw
+    public abstract class  BaseDraw
     {
        public abstract void Draw();
     }
